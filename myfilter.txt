@@ -1,0 +1,70 @@
+://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bestprints.biz|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.cableidp.jp|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.d2c.ne.jp|~ads.dev.int.revelian.com|~ads.dollartree.com|~ads.elcarado.com|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gree.net|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.lviv.ua|~ads.magalu.com|~ads.mba|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.typepad.jp|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com|~ads.shopee.*
+/api/spots/*&ev$script
+/api/spots/*?kw=$script
+
+! 2022-04-22 https://tv04.avsee.in
+tv06.avsee.in##[href="https://cwn-001.com/"]
+tv06.avsee.in##[href="http://hol-04.com/"]
+tv06.avsee.in##div.view-padding > [href="https://mex-see01.com"]
+tv06.avsee.in##.ac4a-b3cb-a9ab-e78c-7ae5f03a [href]
+tv06.avsee.in##[src="/imgs/empty.jpg"]
+tv06.avsee.in##[href="https://mex-see01.com"]
+tv06.avsee.in##[href="https://bs-4937.com/"]
+tv06.avsee.in##[href="https://bs-2719.com/"]
+tv06.avsee.in##[href="https://cwn-001.com/"]
+
+! 2022-06-17 https://avjoa14.com
+avjoa17.com##tbody
+
+! 2022-06-17 https://missav.com
+missav.com##.sm\:pb-5.pb-2.inset-x-0.bottom-0.fixed.z-max > .px-4.mx-auto.container
+missav.com##.under_player
+missav.com##.order-first.flex-1 > .mb-5.space-y-5
+
+! 2022-06-21 https://ww1.javbabe.net
+||cdn.javbabe.net/adu31.html$subdocument
+||cdn.javbabe.net/adu31.html$subdocument
+||cdn.javbabe.net/adu31.html$subdocument
+ww1.javbabe.net##[src="https://cdn.javbabe.net/adu31.html"]
+||cdn.javbabe.net/viva31.html$subdocument
+||cdn.javbabe.net/viva31.html$subdocument
+
+! 2022-06-21 https://www.linkzone6.xyz
+www.linkzone6.xyz##ol:nth-of-type(1)
+www.linkzone6.xyz##ol:nth-of-type(2)
+www.linkzone6.xyz##ol:nth-of-type(4)
+www.linkzone6.xyz##ol:nth-of-type(7)
+www.linkzone6.xyz##ol:nth-of-type(10)
+www.linkzone6.xyz##ol:nth-of-type(13)
+www.linkzone6.xyz##ol:nth-of-type(16)
+www.linkzone6.xyz##ol:nth-of-type(19)
+www.linkzone6.xyz##ol:nth-of-type(22)
+www.linkzone6.xyz##ol:nth-of-type(25)
+www.linkzone6.xyz##ol:nth-of-type(28)
+www.linkzone6.xyz##ol:nth-of-type(31)
+
+! 2022-06-21 https://kissjav.li
+kissjav.li###player-advertising-mobile
+
+! uBlock filters
+! https://github.com/uBlockOrigin/uAssets/issues/3159
+javhay.net##+js(aeld, load, 2000)
+javhay.net##+js(aopw, _pop)
+javhay.net##^script:has-text(/Privet darkv.|\x/)
+javhay.net##.title-most-views:first-child
+javhay.net###logoplayer
+iframejav.*##+js(nowoif)
+iframejav.*##+js(aopr, __Y)
+
+! 2022-07-08 https://kr36.sogirl.so
+kr37.sogirl.so##.happy-header-mobile
+kr37.sogirl.so###text-2 > .textwidget > .header-advertising
+kr37.sogirl.so##.happy-footer-mobile
+kr37.sogirl.so##.custom-html-widget.textwidget
+kr37.sogirl.so###text-12 > .textwidget
+kr37.sogirl.so###text-3 > .textwidget > .header-advertising
+kr37.sogirl.so##.happy-under-player-mobile
+
+! 2022-07-28 https://yaburi17.com
+||image.yaburi*.com/image-storage/banners^$image
+
